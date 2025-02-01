@@ -16,4 +16,4 @@ A Python script to automate the download of monthly chess game archives (in PGN 
 2. Open the script and update the `username` variable with the desired Chess.com username.
 3. Run the script:
    ```bash
-   python3 script_name.py
+   python3 chess_com_pgn_downloader.py
